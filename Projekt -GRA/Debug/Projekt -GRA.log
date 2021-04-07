@@ -1,0 +1,16 @@
+﻿  Console.cpp
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(117,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(118,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(284,12): warning C4552: „-”: Wynik wyrażenia nie jest używany
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(295,12): warning C4552: „-”: Wynik wyrażenia nie jest używany
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(84,6): warning C4101: "q": lokalna zmienna, do której nie istnieje odwołanie
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(468,6): warning C4101: "l": lokalna zmienna, do której nie istnieje odwołanie
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(765,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(816,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(864,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(912,11): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(994,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(995,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(1011,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+F:\Projekt -GRA\Projekt -GRA\Console.cpp(1012,10): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+  Projekt -GRA.vcxproj -> F:\Projekt -GRA\Debug\Projekt -GRA.exe
